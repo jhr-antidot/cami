@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'ca-es'
+title = 'Nou lloc de CAMÍ'
+theme = 'tale'
+
+[menu]
+  [[menu.main]]
+	identifier = "contacte"
+	name = "Contacte"
+	title = "Contacte"
+	url = "/contacte/"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
