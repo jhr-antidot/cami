@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jhr-antidot.github.io/cami/'
 languageCode = 'ca-es'
 title = 'Nou lloc de CAMÍ'
 theme = 'tale'
